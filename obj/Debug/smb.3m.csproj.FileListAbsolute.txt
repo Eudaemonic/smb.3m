@@ -1,0 +1,13 @@
+D:\SkyDrive\WinForms\3M\smb.3m\smb.3m\bin\Debug\smb.3m.exe.config
+D:\SkyDrive\WinForms\3M\smb.3m\smb.3m\bin\Debug\smb.3m.exe
+D:\SkyDrive\WinForms\3M\smb.3m\smb.3m\bin\Debug\smb.3m.pdb
+D:\SkyDrive\WinForms\3M\smb.3m\smb.3m\obj\Debug\smb.3m.csprojResolveAssemblyReference.cache
+D:\SkyDrive\WinForms\3M\smb.3m\smb.3m\obj\Debug\smb._3m.Form1.resources
+D:\SkyDrive\WinForms\3M\smb.3m\smb.3m\obj\Debug\smb._3m.Properties.Resources.resources
+D:\SkyDrive\WinForms\3M\smb.3m\smb.3m\obj\Debug\smb.3m.csproj.GenerateResource.Cache
+D:\SkyDrive\WinForms\3M\smb.3m\smb.3m\obj\Debug\smb.3m.exe
+D:\SkyDrive\WinForms\3M\smb.3m\smb.3m\obj\Debug\smb.3m.pdb
+D:\SkyDrive\WinForms\3M\smb.3m\smb.3m\bin\Debug\smb.3m.exe.manifest
+D:\SkyDrive\WinForms\3M\smb.3m\smb.3m\bin\Debug\smb.3m.application
+D:\SkyDrive\WinForms\3M\smb.3m\smb.3m\obj\Debug\smb.3m.exe.manifest
+D:\SkyDrive\WinForms\3M\smb.3m\smb.3m\obj\Debug\smb.3m.application
